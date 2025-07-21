@@ -1102,7 +1102,6 @@ document.addEventListener('DOMContentLoaded', () => {
         <h3>EXPORTAR</h3>
         <p>Só é permitido baixar um arquivo por projeto!</p>
         <button id="exportarImagemBtn" class="neumorphic-button">Exportar PNG</button>
-        <button id="exportarDxfBtn" class="neumorphic-button">Exportar DXF</button>
     </div>
     
     <div class="neumorphic-card summary-card">
@@ -1117,8 +1116,6 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
 
     <div id="resultado" class="chapa-resumo"></div>
-</div>
-<script>
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('/mdfcut/sw.js')
