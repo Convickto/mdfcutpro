@@ -2,7 +2,7 @@
   "name": "MDF Cut Pro",
   "short_name": "MDF Cut",
   "description": "Calculadora de cortes para MDF otimizada.",
-  "start_url": "/mdfcut/MdfCutPro-V5.html",
+  "start_url": "/mdfcut/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#f5f2ec",
