@@ -1,7 +1,7 @@
 const CACHE_NAME = 'mdfcut-cache-v1'; // Nome do cache (mude se fizer grandes atualizações)
 const urlsToCache = [
   '/mdfcut/', // A raiz do seu projeto no GitHub Pages
-  '/mdfcut/MdfCutPro-V5.html',
+  '/mdfcut/index.html',
   '/mdfcut/manifest.json',
   '/mdfcut/icone-192x192.png',
   '/mdfcut/icone-512x512.png',
